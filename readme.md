@@ -9,7 +9,7 @@ pip install Flask flask-cors PyJWT
 ### 2. Run the backend! 
 
 ```
-python backend.py
+python3 backend.py
 ```
 
 This should produce the following lines in the terminal :
